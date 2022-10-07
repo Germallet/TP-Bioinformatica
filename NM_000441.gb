@@ -1,0 +1,400 @@
+LOCUS       NM_000441               4737 bp    mRNA    linear   PRI 18-SEP-2022
+DEFINITION  Homo sapiens solute carrier family 26 member 4 (SLC26A4), mRNA.
+ACCESSION   NM_000441
+VERSION     NM_000441.2
+KEYWORDS    RefSeq; MANE Select.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 4737)
+  AUTHORS   Dai X, Li J, Hu X, Ye J and Cai W.
+  TITLE     SLC26A4 Mutation Promotes Cell Apoptosis by Inducing Pendrin
+            Transfer, Reducing Cl(-) Transport, and Inhibiting PI3K/Akt/mTOR
+            Pathway
+  JOURNAL   Biomed Res Int 2022, 6496799 (2022)
+   PUBMED   36072472
+  REMARK    GeneRIF: SLC26A4 Mutation Promotes Cell Apoptosis by Inducing
+            Pendrin Transfer, Reducing Cl(-) Transport, and Inhibiting
+            PI3K/Akt/mTOR Pathway.
+            Publication Status: Online-Only
+REFERENCE   2  (bases 1 to 4737)
+  AUTHORS   Luo C, Liu Z, Gan Y, Gao X, Zu X, Zhang Y, Ye W and Cai Y.
+  TITLE     SLC26A4 correlates with homologous recombination deficiency and
+            patient prognosis in prostate cancer
+  JOURNAL   J Transl Med 20 (1), 313 (2022)
+   PUBMED   35836192
+  REMARK    GeneRIF: SLC26A4 correlates with homologous recombination
+            deficiency and patient prognosis in prostate cancer.
+            Publication Status: Online-Only
+REFERENCE   3  (bases 1 to 4737)
+  AUTHORS   Wu T, Cui L, Mou Y, Guo W, Liu D, Qiu J, Xu C, Zhou J, Han F and
+            Sun Y.
+  TITLE     A newly identified mutation (c.2029 C > T) in SLC26A4 gene is
+            associated with enlarged vestibular aqueducts in a Chinese family
+  JOURNAL   BMC Med Genomics 15 (1), 49 (2022)
+   PUBMED   35249537
+  REMARK    GeneRIF: A newly identified mutation (c.2029 C > T) in SLC26A4 gene
+            is associated with enlarged vestibular aqueducts in a Chinese
+            family.
+            Publication Status: Online-Only
+REFERENCE   4  (bases 1 to 4737)
+  AUTHORS   Dai Q, Dai W, Wang D, Liu X, Zou L, Chen J, Zheng H and Duan M.
+  TITLE     Molecular screening of patients with profound hearing loss from
+            Chengdu, China
+  JOURNAL   Acta Otolaryngol 142 (1), 57-60 (2022)
+   PUBMED   34936523
+  REMARK    GeneRIF: Molecular screening of patients with profound hearing loss
+            from Chengdu, China.
+REFERENCE   5  (bases 1 to 4737)
+  AUTHORS   Gausden E, Armour JA, Coyle B, Coffey R, Hochberg Z, Pembrey M,
+            Britton KE, Grossman A, Reardon W and Trembath R.
+  TITLE     Thyroid peroxidase: evidence for disease gene exclusion in
+            Pendred's syndrome
+  JOURNAL   Clin Endocrinol (Oxf) 44 (4), 441-446 (1996)
+   PUBMED   8706311
+REFERENCE   6  (bases 1 to 4737)
+  AUTHORS   Sheffield VC, Kraiem Z, Beck JC, Nishimura D, Stone EM, Salameh M,
+            Sadeh O and Glaser B.
+  TITLE     Pendred syndrome maps to chromosome 7q21-34 and is caused by an
+            intrinsic defect in thyroid iodine organification
+  JOURNAL   Nat Genet 12 (4), 424-426 (1996)
+   PUBMED   8630498
+REFERENCE   7  (bases 1 to 4737)
+  AUTHORS   Coyle B, Coffey R, Armour JA, Gausden E, Hochberg Z, Grossman A,
+            Britton K, Pembrey M, Reardon W and Trembath R.
+  TITLE     Pendred syndrome (goitre and sensorineural hearing loss) maps to
+            chromosome 7 in the region containing the nonsyndromic deafness
+            gene DFNB4
+  JOURNAL   Nat Genet 12 (4), 421-423 (1996)
+   PUBMED   8630497
+REFERENCE   8  (bases 1 to 4737)
+  AUTHORS   Baldwin CT, Weiss S, Farrer LA, De Stefano AL, Adair R, Franklyn B,
+            Kidd KK, Korostishevsky M and Bonne-Tamir B.
+  TITLE     Linkage of congenital, recessive deafness (DFNB4) to chromosome
+            7q31 and evidence for genetic heterogeneity in the Middle Eastern
+            Druze population
+  JOURNAL   Hum Mol Genet 4 (9), 1637-1642 (1995)
+   PUBMED   8541853
+REFERENCE   9  (bases 1 to 4737)
+  AUTHORS   Smith,R.J.H., Iwasa,Y. and Schaefer,A.M.
+  TITLE     Pendred Syndrome/Nonsyndromic Enlarged Vestibular Aqueduct
+  JOURNAL   (in) Adam MP, Everman DB, Mirzaa GM, Pagon RA, Wallace SE, Bean
+            LJH, Gripp KW and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301640
+REFERENCE   10 (bases 1 to 4737)
+  AUTHORS   Shearer,A.E., Hildebrand,M.S. and Smith,R.J.H.
+  TITLE     Hereditary Hearing Loss and Deafness Overview
+  JOURNAL   (in) Adam MP, Everman DB, Mirzaa GM, Pagon RA, Wallace SE, Bean
+            LJH, Gripp KW and Amemiya A (Eds.);
+            GENEREVIEWS((R));
+            (1993)
+   PUBMED   20301607
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from AF030880.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On May 17, 2019 this sequence version replaced NM_000441.1.
+            
+            Summary: Mutations in this gene are associated with Pendred
+            syndrome, the most common form of syndromic deafness, an
+            autosomal-recessive disease. It is highly homologous to the SLC26A3
+            gene; they have similar genomic structures and this gene is located
+            3' of the SLC26A3 gene. The encoded protein has homology to sulfate
+            transporters. [provided by RefSeq, Jul 2008].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: AF030880.1 [ECO:0000332]
+            RNAseq introns              :: single sample supports all introns
+                                           SAMEA2144120, SAMEA2145240
+                                           [ECO:0000348]
+            ##Evidence-Data-END##
+            
+            ##RefSeq-Attributes-START##
+            MANE Ensembl match     :: ENST00000644269.2/ ENSP00000494017.1
+            RefSeq Select criteria :: based on single protein-coding transcript
+            ##RefSeq-Attributes-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-4737              AF030880.1         194-4930
+FEATURES             Location/Qualifiers
+     source          1..4737
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="7"
+                     /map="7q22.3"
+     gene            1..4737
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /note="solute carrier family 26 member 4"
+                     /db_xref="GeneID:5172"
+                     /db_xref="HGNC:HGNC:8818"
+                     /db_xref="MIM:605646"
+     exon            1..28
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /inference="alignment:Splign:2.1.0"
+     exon            29..195
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /inference="alignment:Splign:2.1.0"
+     CDS             32..2374
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /note="sodium-independent chloride/iodide transporter;
+                     solute carrier family 26 (anion exchanger), member 4"
+                     /codon_start=1
+                     /product="pendrin"
+                     /protein_id="NP_000432.1"
+                     /db_xref="CCDS:CCDS5746.1"
+                     /db_xref="GeneID:5172"
+                     /db_xref="HGNC:HGNC:8818"
+                     /db_xref="MIM:605646"
+                     /translation="MAAPGGRSEPPQLPEYSCSYMVSRPVYSELAFQQQHERRLQERK
+                     TLRESLAKCCSCSRKRAFGVLKTLVPILEWLPKYRVKEWLLSDVISGVSTGLVATLQG
+                     MAYALLAAVPVGYGLYSAFFPILTYFIFGTSRHISVGPFPVVSLMVGSVVLSMAPDEH
+                     FLVSSSNGTVLNTTMIDTAARDTARVLIASALTLLVGIIQLIFGGLQIGFIVRYLADP
+                     LVGGFTTAAAFQVLVSQLKIVLNVSTKNYNGVLSIIYTLVEIFQNIGDTNLADFTAGL
+                     LTIVVCMAVKELNDRFRHKIPVPIPIEVIVTIIATAISYGANLEKNYNAGIVKSIPRG
+                     FLPPELPPVSLFSEMLAASFSIAVVAYAIAVSVGKVYATKYDYTIDGNQEFIAFGISN
+                     IFSGFFSCFVATTALSRTAVQESTGGKTQVAGIISAAIVMIAILALGKLLEPLQKSVL
+                     AAVVIANLKGMFMQLCDIPRLWRQNKIDAVIWVFTCIVSIILGLDLGLLAGLIFGLLT
+                     VVLRVQFPSWNGLGSIPSTDIYKSTKNYKNIEEPQGVKILRFSSPIFYGNVDGFKKCI
+                     KSTVGFDAIRVYNKRLKALRKIQKLIKSGQLRATKNGIISDAVSTNNAFEPDEDIEDL
+                     EELDIPTKEIEIQVDWNSELPVKVNVPKVPIHSLVLDCGAISFLDVVGVRSLRVIVKE
+                     FQRIDVNVYFASLQDYVIEKLEQCGFFDDNIRKDTFFLTVHDAILYLQNQVKSQEGQG
+                     SILETITLIQDCKDTLELIETELTEEELDVQDEAMRTLAS"
+     misc_feature    293..355
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /note="propagated from UniProtKB/Swiss-Prot (O43511.1);
+                     transmembrane region"
+     misc_feature    359..421
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /note="propagated from UniProtKB/Swiss-Prot (O43511.1);
+                     transmembrane region"
+     misc_feature    437..499
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /note="propagated from UniProtKB/Swiss-Prot (O43511.1);
+                     transmembrane region"
+     misc_feature    605..667
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /note="propagated from UniProtKB/Swiss-Prot (O43511.1);
+                     transmembrane region"
+     misc_feature    686..748
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /note="propagated from UniProtKB/Swiss-Prot (O43511.1);
+                     transmembrane region"
+     misc_feature    821..883
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /note="propagated from UniProtKB/Swiss-Prot (O43511.1);
+                     transmembrane region"
+     misc_feature    917..979
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /note="propagated from UniProtKB/Swiss-Prot (O43511.1);
+                     transmembrane region"
+     misc_feature    1064..1126
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /note="propagated from UniProtKB/Swiss-Prot (O43511.1);
+                     transmembrane region"
+     misc_feature    1184..1246
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /note="propagated from UniProtKB/Swiss-Prot (O43511.1);
+                     transmembrane region"
+     misc_feature    1295..1357
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /note="propagated from UniProtKB/Swiss-Prot (O43511.1);
+                     transmembrane region"
+     misc_feature    1376..1438
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /note="propagated from UniProtKB/Swiss-Prot (O43511.1);
+                     transmembrane region"
+     misc_feature    1490..1552
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /note="propagated from UniProtKB/Swiss-Prot (O43511.1);
+                     transmembrane region"
+     exon            196..335
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /inference="alignment:Splign:2.1.0"
+     exon            336..446
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /inference="alignment:Splign:2.1.0"
+     exon            447..631
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /inference="alignment:Splign:2.1.0"
+     exon            632..796
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /inference="alignment:Splign:2.1.0"
+     exon            797..949
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /inference="alignment:Splign:2.1.0"
+     exon            950..1032
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1033..1180
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1181..1294
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1295..1372
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1373..1468
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1469..1575
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1576..1645
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1646..1738
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1739..1834
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /inference="alignment:Splign:2.1.0"
+     exon            1835..2065
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2066..2120
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2121..2266
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2267..2350
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /inference="alignment:Splign:2.1.0"
+     exon            2351..4737
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /inference="alignment:Splign:2.1.0"
+     regulatory      4684..4689
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /note="hexamer: AATAAA"
+     polyA_site      4711
+                     /gene="SLC26A4"
+                     /gene_synonym="DFNB4; EVA; PDS; TDH2B"
+                     /note="major polyA site"
+ORIGIN      
+        1 attccgggcg gggcgcgagc agagacaggt catggcagcg ccaggcggca ggtcggagcc
+       61 gccgcagctc cccgagtaca gctgcagcta catggtgtcg cggccggtct acagcgagct
+      121 cgctttccag caacagcacg agcggcgcct gcaggagcgc aagacgctgc gggagagcct
+      181 ggccaagtgc tgcagttgtt caagaaagag agcctttggt gtgctaaaga ctcttgtgcc
+      241 catcttggag tggctcccca aataccgagt caaggaatgg ctgcttagtg acgtcatttc
+      301 gggagttagt actgggctag tggccacgct gcaagggatg gcatatgccc tactagctgc
+      361 agttcctgtc ggatatggtc tctactctgc ttttttccct atcctgacat actttatctt
+      421 tggaacatca agacatatct cagttggacc ttttccagtg gtgagtttaa tggtgggatc
+      481 tgttgttctg agcatggccc ccgacgaaca ctttctcgta tccagcagca atggaactgt
+      541 attaaatact actatgatag acactgcagc tagagataca gctagagtcc tgattgccag
+      601 tgccctgact ctgctggttg gaattataca gttgatattt ggtggcttgc agattggatt
+      661 catagtgagg tacttggcag atcctttggt tggtggcttc acaacagctg ctgccttcca
+      721 agtgctggtc tcacagctaa agattgtcct caatgtttca accaaaaact acaatggagt
+      781 tctctctatt atctatacgc tggttgagat ttttcaaaat attggtgata ccaatcttgc
+      841 tgatttcact gctggattgc tcaccattgt cgtctgtatg gcagttaagg aattaaatga
+      901 tcggtttaga cacaaaatcc cagtccctat tcctatagaa gtaattgtga cgataattgc
+      961 tactgccatt tcatatggag ccaacctgga aaaaaattac aatgctggca ttgttaaatc
+     1021 catcccaagg gggtttttgc ctcctgaact tccacctgtg agcttgttct cggagatgct
+     1081 ggctgcatca ttttccatcg ctgtggtggc ttatgctatt gcagtgtcag taggaaaagt
+     1141 atatgccacc aagtatgatt acaccatcga tgggaaccag gaattcattg cctttgggat
+     1201 cagcaacatc ttctcaggat tcttctcttg ttttgtggcc accactgctc tttcccgcac
+     1261 ggccgtccag gagagcactg gaggaaagac acaggttgct ggcatcatct ctgctgcgat
+     1321 tgtgatgatc gccattcttg ccctggggaa gcttctggaa cccttgcaga agtcggtctt
+     1381 ggcagctgtt gtaattgcca acctgaaagg gatgtttatg cagctgtgtg acattcctcg
+     1441 tctgtggaga cagaataaga ttgatgctgt tatctgggtg tttacgtgta tagtgtccat
+     1501 cattctgggg ctggatctcg gtttactagc tggccttata tttggactgt tgactgtggt
+     1561 cctgagagtt cagtttcctt cttggaatgg ccttggaagc atccctagca cagatatcta
+     1621 caaaagtacc aagaattaca aaaacattga agaacctcaa ggagtgaaga ttcttagatt
+     1681 ttccagtcct attttctatg gcaatgtcga tggttttaaa aaatgtatca agtccacagt
+     1741 tggatttgat gccattagag tatataataa gaggctgaaa gcgctgagga aaatacagaa
+     1801 actaataaaa agtggacaat taagagcaac aaagaatggc atcataagtg atgctgtttc
+     1861 aacaaataat gcttttgagc ctgatgagga tattgaagat ctggaggaac ttgatatccc
+     1921 aaccaaggaa atagagattc aagtggattg gaactctgag cttccagtca aagtgaacgt
+     1981 tcccaaagtg ccaatccata gccttgtgct tgactgtgga gctatatctt tcctggacgt
+     2041 tgttggagtg agatcactgc gggtgattgt caaagaattc caaagaattg atgtgaatgt
+     2101 gtattttgca tcacttcaag attatgtgat agaaaagctg gagcaatgcg ggttctttga
+     2161 cgacaacatt agaaaggaca cattcttttt gacggtccat gatgctatac tctatctaca
+     2221 gaaccaagtg aaatctcaag agggtcaagg ttccatttta gaaacgatca ctctcattca
+     2281 ggattgtaaa gatacccttg aattaataga aacagagctg acggaagaag aacttgatgt
+     2341 ccaggatgag gctatgcgta cacttgcatc ctgaaagtgg gttcgggagg tctctatgag
+     2401 caaggaatac aagacaaaac ttcctcaatg cattgactat ttcttcagac tcaaaacact
+     2461 cattcttttt tctattaagc cattgaaaga gaagcactaa gactgcttct aggctttatt
+     2521 tataaaataa acaccttatc cctaacatgg gcaaaatggc tagaattatt cagacgattt
+     2581 ggcagcgtcc agggtaagct ggtgttataa tacgctgctg atctacatca cagatttgct
+     2641 aataatgttc acgtgggccc tggcatatct ctgttcagtt agagtgagtg ctgacccaac
+     2701 agcctctgtg gtcaagcgag tcacgaatga ttaatcataa agaaaaatca gtttttgact
+     2761 gacctggata tccatgagct gcactgatca ccatgtaagg tcacatttag taaatgctga
+     2821 aataaaatga ttaatgcatt tatcaataaa agcctttgaa aatactttgg ataataaatt
+     2881 ggagttttaa aaatgcaaat ttgcttagta tctaataatg aagtgttatt acatatagcc
+     2941 ggaattgagg atctctttga tcctggaaat ggtttaccta aaagctacag aaccaggcca
+     3001 atatattttg aaatattgat gcagacaaat gaaataataa agagattttc atggtttata
+     3061 aaaatctttt ttgatatgat aataatcatg atcacaactg agatcaaaaa aatatatgac
+     3121 agattatttt gtttaaaaat gcagttttaa ttatcttagt ctatagaaat gatcattgca
+     3181 tggaggcatg tataggtatg atctgtgtaa aatctgacat aaaaacagtg ctattctgag
+     3241 tgaaaatttt tttgatgtgc ttacataacc atggtgatta aaatgagttt atattttttc
+     3301 tcaaaaattt tagcagtgtg taaagtaagt aatctttaac tgaactctga ccacttaaaa
+     3361 aaaaatctaa aaattgaact acctatagta gtctgtgttt aaagtgaatt tttaaagaca
+     3421 aagcattcta aatgaactca atataaaaac attcatttgg aatgtacata ctgaaaaata
+     3481 caggtttttt tgaccaaaag tttttatatc ttttcttttt atttattttt ttcctaagtg
+     3541 ccaacaattt tctagatatt atatacaaca caggctttga tcttggggac ttttcccata
+     3601 tatttcacac tggagtgaat gaagttgtac ttcatttcta gagaaaagtt atacccaggt
+     3661 ccccaattga gaatgtcttg cttgattgaa aacgacatca tcccttggta tactccaggg
+     3721 attggtttca ggacccctgc atttaccaaa atttgtgcac actcaagtcc tgcagtcacc
+     3781 cctgcctaaa gatagaatgg cttctctgtt tttcttctga aatacaacca gaaacaatgt
+     3841 gtctatttct gaaagaatag gattaatgat catacaaatg ggttaatcct gaattctggt
+     3901 tgtaaatctg gttacagcat aactaggatt ataatgctgc ctcattttca cagcactact
+     3961 tgcttatatt gacaacaaat catctcgcta aagagtgaat gtaggccagg cgcggtggct
+     4021 catgcctgta atcccagcac tttgggaggc cgaggcgggt ggatcacgag gtcaggagat
+     4081 cgagaccatc ctggctaaca tggtaaaacc ccgtctctac taaaaataga aaaaaagaaa
+     4141 ttagcctagc gtggtggctg gcgggcgcct gtagtcccag ctatttggga ggctaaggca
+     4201 ggagaatggc gtgaacccgg gaggcggagc ttgcagtgag ccgaggtcgt gccactgcac
+     4261 tccagcctgg gcgacagagc aagactccgt ctcaaaaaaa aaaaaaaaaa aaaaaaaaga
+     4321 gtgaatgtaa tagtcttgca gaaaatgaat gaataccttt gttcaataaa ggaaatatgc
+     4381 actgctcact tttttgaagg aaatgccaaa gttacgtttt acaacaaggc tagagtttgt
+     4441 aaattctggg ttcatttgtg atgacataag tcagcaaact gcgggaatac tgtctcttct
+     4501 atgtattttg tgaatagtaa gcataatttt agttttgtat tatcaatgaa aatttcactt
+     4561 gaaattaaag ctgccttttg ttatattttt aacctatagg ataagattcc agtattgtat
+     4621 atgagtttta acaaattaaa aaatcaaatc atgtacattt gaaaatattt gcacacattt
+     4681 aaaaataaat gtaaagttgt cttttaaact actcggatgt gtcctttctg aacaaaa
+//
+
