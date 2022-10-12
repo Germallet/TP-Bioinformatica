@@ -25,7 +25,12 @@ sub get_seq_from_file {
 
 sub export_to_fasta {
     my $seqio_obj = Bio::SeqIO->new(-file => $_[1], -format => 'fasta');
-    $seqio_obj->write_seq($_[0]);
+    $seqio_obj->write_seq($_[0]->translate(-frame => 0));
+    $seqio_obj->write_seq($_[0]->translate(-frame => 1));
+    $seqio_obj->write_seq($_[0]->translate(-frame => 2));
+    $seqio_obj->write_seq($_[0]->revcom->translate(-frame => 0));
+    $seqio_obj->write_seq($_[0]->revcom->translate(-frame => 1));
+    $seqio_obj->write_seq($_[0]->revcom->translate(-frame => 2));
 }
 
 my $seq = get_seq_from_file($ARGV[0]);
