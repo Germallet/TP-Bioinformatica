@@ -8,11 +8,15 @@ use Bio::DB::GenBank;
 use Bio::SeqIO;
 
 print "TP Bioinformática - Ejercicio 1\n";
-
-sub get_seq_from_db {
-    my $db_obj = Bio::DB::GenBank->new;
-    return $db_obj->get_Seq_by_acc($_[0]);
+if ($#ARGV + 1 != 2) {
+    print "Se requieren dos parámetros! El archivo de secuencias de entrada y el arhivo FASTA de salida.\n";
+    exit;
 }
+
+#sub get_seq_from_db {
+#    my $db_obj = Bio::DB::GenBank->new;
+#    return $db_obj->get_Seq_by_acc($_[0]);
+#}
 
 sub get_seq_from_file {
     my $seqio_obj = Bio::SeqIO->new(-file => $_[0], -format => "genbank"); 
@@ -24,7 +28,6 @@ sub export_to_fasta {
     $seqio_obj->write_seq($_[0]);
 }
 
-# $seq = get_seq_from_db('NM_000441')->seq;
-my $seq = get_seq_from_file('NM_000441.gb');
-
-export_to_fasta($seq, '>NM_000441.fas')
+my $seq = get_seq_from_file($ARGV[0]);
+export_to_fasta($seq, ">$ARGV[1]");
+print "Ok\n";
