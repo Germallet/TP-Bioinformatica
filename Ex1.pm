@@ -9,7 +9,7 @@ use Bio::SeqIO;
 
 print "TP Bioinformática - Ejercicio 1\n";
 if ($#ARGV + 1 != 2) {
-    print "Se requieren dos parámetros! El archivo de secuencias de entrada y el arhivo FASTA de salida.\n";
+    print "Se requieren dos parámetros! El archivo de secuencias de entrada y el archivo FASTA de salida.\n";
     exit;
 }
 

@@ -8,6 +8,14 @@
 
 ## Ejercicio 2
 
+Usando la base de datos remota:
+
 ```bash
 ./Ex2.pm NM_000441.fas blast.out
+```
+
+Usando una base de datos local:
+
+```bash
+./Ex2.pm NM_000441.fas blast.out '$HOME/blast/db/FASTA/data'
 ```
