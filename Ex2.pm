@@ -38,25 +38,25 @@ sub blast_remote {
         print STDERR ".";
         sleep(1);
       } else {
+        $factory->save_output($ARGV[1]."\.out");
         $factory->remove_rid($request_id);
+        print_results $rc;
       }
     }    
   }
 
-  $factory->save_output($ARGV[1]."\.out");
   return $factory;
 }
 
 sub blast_local {
   my $factory = Bio::Tools::Run::StandAloneBlastPlus->new(-db_name => $ARGV[2]);
   $factory->blastp(-query => $ARGV[0], -outfile => $ARGV[1]);
-  return $factory;
+  print_results $factory;
 }
 
-my $factory;
 if (defined $ARGV[2]) {
-  $factory = blast_local($ARGV[2]);
+  blast_local($ARGV[2]);
 } else {
-  $factory = blast_remote();
+  blast_remote();
 }
-print_results $factory;
+
