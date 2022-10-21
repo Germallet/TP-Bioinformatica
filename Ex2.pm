@@ -16,7 +16,7 @@ sub print_results {
   while (my $result = $_[0]->next_result) {
     print "\n\nQuery: ", $result->query_name(), "\n";
     while (my $hit = $result->next_hit) {
-      print "\t", $hit->name, "; ", "Puntaje: ", $hit->next_hsp->score, "; ", $hit->description, "\n";
+      print "\t", $hit->name, "; ", "Puntaje: ", $hit->bits, "; ", $hit->description, "\n";
     }
   }
 }
