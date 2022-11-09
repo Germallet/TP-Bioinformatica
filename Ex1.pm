@@ -34,7 +34,7 @@ sub export_to_fasta {
 }
 
 my $seq;
-if ($#ARGV >= 3 && $ARGV[2] == 'db') {
+if ($#ARGV >= 2 and $ARGV[2] eq 'db') {
     $seq = get_seq_from_db($ARGV[0]);
 } else {
     $seq = get_seq_from_file($ARGV[0]);
