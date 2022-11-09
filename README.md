@@ -2,8 +2,16 @@
 
 ## Ejercicio 1
 
+Usando archivo de secuencia Genbank:
+
 ```bash
 ./Ex1.pm NM_000441.gb NM_000441.fas
+```
+
+Usando accession contra la base de datos:
+
+```bash
+./Ex1.pm NM_000441 NM_000441.fas db
 ```
 
 ## Ejercicio 2
