@@ -59,4 +59,3 @@ if (defined $ARGV[2]) {
 } else {
   blast_remote();
 }
-
