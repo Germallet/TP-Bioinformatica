@@ -28,7 +28,7 @@ Usando una base de datos local:
 ./Ex2.pm NM_000441.fas blast.out '$HOME/blast/db/FASTA/data'
 ```
 
-## Ejercicio 3: parseo de BLAST
+## Ejercicio 4: parseo de BLAST
 
 ```bash
 ./Ex4.pm blast.out "Mus musculus"
@@ -38,4 +38,10 @@ Agregando un parámetro se puede indicar un archivo donde guardar las cadenas de
 
 ```bash
 ./Ex4.pm blast.out "Mus musculus" ex4.fas
+```
+
+## Ejercicio 5: EMBOSS
+
+```bash
+./Ex5.pm NM_000441.gb NM_000441.emb NM_000441.patmatmotifs
 ```

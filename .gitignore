@@ -1,2 +1,6 @@
 *.fas
 *.out
+*.emb
+*.patmatmotifs
+prosite.dat
+prosite.doc

@@ -23,7 +23,7 @@ sub print_results {
 
 sub blast_remote {
   my $factory = Bio::Tools::Run::RemoteBlast->new('-prog' => 'blastp', '-data' => 'swissprot');
-  my $str = Bio::SeqIO->new(-file=> $ARGV[0], -format => 'fasta');
+  my $str = Bio::SeqIO->new(-file => $ARGV[0], -format => 'fasta');
   my $r = $factory->submit_blast($ARGV[0]);
 
   while (my @request_ids = $factory->each_rid) {
